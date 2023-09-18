@@ -38,6 +38,3 @@ This project merges local tweets and satellite images as json file and sends it 
   >> Azure Cosmos DB is a comprehensive, fully managed NoSQL database service tailored for contemporary application development. Its standout features include single-digit millisecond response times, ensuring swift data retrieval and manipulation regardless of database size. The database's automatic and instant scalability guarantees that performance remains consistent as data grows. Azure Cosmos DB offers robust business continuity through SLA-backed availability and enterprise-grade security, making it a reliable choice for applications that demand high-speed, globally distributed, and secure data storage and retrieval.
 
 ### Visualization
-
-- [Power BI Desktop Report](https://powerbi.microsoft.com/en-us/desktop/)
-  >> Rich, interactive reports with visual analytics.

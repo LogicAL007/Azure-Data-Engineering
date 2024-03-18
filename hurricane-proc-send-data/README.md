@@ -198,25 +198,3 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-## Author
-
-👤 **Kristijan Bakaric**
-
-* Website: 
-* Twitter: [@kbakaric1](https://twitter.com/kbakaric1)
-* Github: [@baky0905](https://github.com/baky0905)
-* LinkedIn: [@kristijanb](https://linkedin.com/in/kristijanb)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

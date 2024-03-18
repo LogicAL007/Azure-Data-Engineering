@@ -45,10 +45,4 @@ Note: Do not forget to upload the local settings to applications settings in Azu
 ![](./img/local-settings.png)
 
 
-### Local Testing
 
-For any local testing, use the sample local.settings.json and host.json, create [virtual environment](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python#create-and-activate-a-virtual-environment) and run `func host start`
-
-## References
-
-- [Create your first Python Function](https://docs.microsoft.com/azure/azure-functions/functions-create-first-function-python)

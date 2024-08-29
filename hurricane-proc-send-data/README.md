@@ -1,9 +1,4 @@
 <h1 align="center"> Processing of Hurricane Harvey Tweets and Satelite Images and Python CLI for Sending the Tweets to REST API👋</h1>
-<p>
-  <a href="https://twitter.com/kbakaric1" target="_blank">
-    <img alt="Twitter: kbakaric1" src="https://img.shields.io/twitter/follow/kbakaric1.svg?style=social" />
-  </a>
-</p>
 
 
 <p align="center">
